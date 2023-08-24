@@ -16,7 +16,7 @@ public class Case {
             case 3: 
             System.out.println("You selected 3");
             default:
-             System.out.println("You did not select 1, 2 or 3");
+             System.out.println("You did not select any of the options try again");
         }
 
     }
